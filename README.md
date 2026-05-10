@@ -10,6 +10,9 @@ group leader Name: Muhammad Yousif  Cms Id: 023-25-0123
 
 # Student Management System
 
+## YOUTUBE CHANNAEL VIDEO OF PROJECT
+https://youtu.be/N6BGed8pC5w
+
 ## Project Description
 
 The Student Management System is a desktop-based Java application developed using Object-Oriented Programming (OOP) concepts, Java Swing GUI, JDBC, and MySQL database. The main purpose of this project is to manage student records, course enrollments, and related academic information in an organized and efficient way.
